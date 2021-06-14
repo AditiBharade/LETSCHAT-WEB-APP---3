@@ -6,7 +6,7 @@ html, body
 
 body
 {
- background-image: url("Bg 1.png");
+background-image: url("Bg 1.png");;
 }
 
 .header
